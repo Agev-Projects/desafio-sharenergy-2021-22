@@ -1,7 +1,6 @@
 # Desafio Sharenergy
 
 Link live demo: <a href="https://desafio-sharenergy.netlify.app/">https://desafio-sharenergy.netlify.app/</a>
-Link vidio Youtube: <a></a>
 
 <details>
   <summary>Tabela de conteúdo</summary>
@@ -20,6 +19,17 @@ Link vidio Youtube: <a></a>
 
 ## Screenshots
 
+<img src="https://i.ibb.co/By0TSLZ/Captura1.png">
+<h3>Dashboard</h3>
+<img src="https://i.ibb.co/6NWpSBX/Captura2.png">
+<h3>Gráfico da Usina con dados estatisticos</h3>
+<img src="https://i.ibb.co/6vHBxtL/Captura3.png">
+<h3>Clientes</h3>
+<img src="https://i.ibb.co/2hrqZ8x/Captura4.png">
+<h3>Edição de Clientes</h3>
+<img src="https://i.ibb.co/pRV6pNv/Captura5.png">
+<h3>Filtragem e busca de Clientes</h3>
+
 ### Feito com
 
 - [React.js](https://reactjs.org/)
@@ -34,7 +44,7 @@ Link vidio Youtube: <a></a>
 
 1. Clone o repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Agev-Projects/desafio-sharenergy-2021-22.git
    ```
 2. Instale os pacotes
    ```sh
