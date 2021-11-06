@@ -8,6 +8,7 @@ Link live demo: <a href="https://desafio-sharenergy.netlify.app/">https://desafi
     <li>
       <a href="screenshots">Screenshots</a>
       <ul>
+        <li><a href="#dependências">Dependências</a></li>
         <li><a href="#feito-com">Feito Com</a></li>
       </ul>
     </li>
@@ -30,6 +31,28 @@ Link live demo: <a href="https://desafio-sharenergy.netlify.app/">https://desafi
 <img src="https://i.ibb.co/pRV6pNv/Captura5.png">
 <h3>Filtragem e busca de Clientes</h3>
 
+## Dependências
+
+```
+ "@emotion/react": "^11.5.0",
+ "@emotion/styled": "^11.3.0",
+ "@mui/icons-material": "^5.0.5",
+ "@mui/material": "^5.0.5",
+ "@mui/styles": "^5.0.2",
+ "@mui/x-data-grid": "^5.0.0-beta.7",
+ "@testing-library/jest-dom": "^5.14.1",
+ "@testing-library/react": "^11.2.7",
+ "@testing-library/user-event": "^12.8.3",
+ "mui-datatables": "^4.0.0",
+ "react": "^17.0.2",
+ "react-dom": "^17.0.2",
+ "react-hook-form": "^7.19.0",
+ "react-router-dom": "^5.3.0",
+ "react-scripts": "4.0.3",
+ "recharts": "^2.1.6",
+ "simple-statistics": "^7.7.0",
+```
+
 ### Feito com
 
 - [React.js](https://reactjs.org/)
@@ -40,7 +63,7 @@ Link live demo: <a href="https://desafio-sharenergy.netlify.app/">https://desafi
 
 <!-- GETTING STARTED -->
 
-## Instalação
+### Instalação
 
 1. Clone o repo
    ```sh
