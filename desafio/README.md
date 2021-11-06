@@ -44,7 +44,7 @@ Link live demo: <a href="https://desafio-sharenergy.netlify.app/">https://desafi
 
 1. Clone o repo
    ```sh
-   git clone https://github.com/Agev-Projects/desafio-sharenergy-2021-22.git
+   git clone -b daniel-vega-lopes https://github.com/Agev-Projects/desafio-sharenergy-2021-22.git
    ```
 2. Instale os pacotes
    ```sh
